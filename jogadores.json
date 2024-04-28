@@ -1,0 +1,34 @@
+[
+    {
+        "nickname": "Raff",
+        "historico": {
+            "pontuacao": 4500,
+            "vitorias": 9,
+            "derrotas": 1
+        }
+    },
+    {
+        "nickname": "Boii",
+        "historico": {
+            "pontuacao": 500,
+            "vitorias": 1,
+            "derrotas": 0
+        }
+    },
+    {
+        "nickname": "Unboud_method",
+        "historico": {
+            "pontuacao": 900,
+            "vitorias": 3,
+            "derrotas": 1
+        }
+    },
+    {
+        "nickname": "Bauer",
+        "historico": {
+            "pontuacao": 0,
+            "vitorias": 0,
+            "derrotas": 0
+        }
+    }
+]
