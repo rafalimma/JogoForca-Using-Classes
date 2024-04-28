@@ -1,0 +1,15 @@
+Gato, animal
+Cachorro, animal
+Casa, estrutura
+Sol, luz
+Flor, aroma bom
+Livro, biblioteca
+Mesa, madeira
+Lapis, escritor
+Bola, futzin dos cria
+Arvore, folha
+Maca, hospital
+Aviao, aparece no ceu
+Camisa, vc veste
+Banana, fruta
+Rato, animal

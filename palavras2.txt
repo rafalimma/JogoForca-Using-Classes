@@ -1,0 +1,15 @@
+Elefante, animal
+Computador, Ciencia da computacao
+Guitarra, instrumento
+Abacaxi, fruta
+Girafa, animal
+Escola, prisao
+Chocolate, doce
+Telefone, celular
+Bicicleta, ciclismo
+Pipoca, milho
+Futebol, bola
+Caneta, Manuel gomes
+Pinguim, polo sul
+volante, carro
+Violao, cordas
